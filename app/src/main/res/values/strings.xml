@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Asssignment2</string>
+    <string name="textView2" />
+    <string name="dina_albarqi">Dina Albarqi</string>
+    <string name="go">Go!</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="detective_conan">Detective conan</string>
 </resources>
